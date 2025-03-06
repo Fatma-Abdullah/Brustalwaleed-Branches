@@ -1230,4 +1230,8 @@ div:where(.swal2-container) button:where(.swal2-styled):where(.swal2-confirm) {
 
 .offer_section {
   padding-top: 0;
+}body {
+  background-color: #242425;
+}    .offer_section .box {
+  background: #303030;
 }
